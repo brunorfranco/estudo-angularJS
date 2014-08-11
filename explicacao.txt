@@ -1,0 +1,1 @@
+Para que funcione, é necessário iniciar o Node.js, entao temos que rodar o comando 'npm install' dentro da pasta server e depois 'node app'.
